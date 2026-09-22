@@ -50,6 +50,8 @@
     {"id":{"name":"rm_cutscene_4","path":"rooms/rm_cutscene_4/rm_cutscene_4.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"Snd_music","path":"sounds/Snd_music/Snd_music.yy",},},
+    {"id":{"name":"Snd_powerup","path":"sounds/Snd_powerup/Snd_powerup.yy",},},
     {"id":{"name":"Spr_batatinha","path":"sprites/Spr_batatinha/Spr_batatinha.yy",},},
     {"id":{"name":"Spr_burguer","path":"sprites/Spr_burguer/Spr_burguer.yy",},},
     {"id":{"name":"Spr_chocolate","path":"sprites/Spr_chocolate/Spr_chocolate.yy",},},

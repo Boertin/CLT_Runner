@@ -9,3 +9,4 @@ alarm[2] = 120
 
 //alarme 3 aumenta a velocidade do clt
 alarm[3] = 600
+audio_play_sound(Snd_music,1,1)

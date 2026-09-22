@@ -30,6 +30,7 @@
     {"name":"rm_cutscene_3","order":5,"path":"rooms/rm_cutscene_3/rm_cutscene_3.yy",},
     {"name":"rm_cutscene_4","order":6,"path":"rooms/rm_cutscene_4/rm_cutscene_4.yy",},
     {"name":"rm_jogo","order":2,"path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"Snd_powerup","order":1,"path":"sounds/Snd_powerup/Snd_powerup.yy",},
     {"name":"Spr_batatinha","order":5,"path":"sprites/Spr_batatinha/Spr_batatinha.yy",},
     {"name":"Spr_burguer","order":6,"path":"sprites/Spr_burguer/Spr_burguer.yy",},
     {"name":"Spr_chocolate","order":1,"path":"sprites/Spr_chocolate/Spr_chocolate.yy",},

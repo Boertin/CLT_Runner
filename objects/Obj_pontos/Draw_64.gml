@@ -1,1 +1,0 @@
-draw_(x,y,global.pontos)
